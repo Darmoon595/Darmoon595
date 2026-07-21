@@ -16,7 +16,9 @@ Software Engineering student at McMaster University passionate about AI, mobile 
 AI • Software Development • Mobile Apps • Embedded Systems • Strength Training
 
 ## 📫 Connect
-LinkedIn: [your-link-here]
+LinkedIn: www.linkedin.com/in/ryan-nasri-b46416395
+
+
 <!--
 **Darmoon595/Darmoon595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
